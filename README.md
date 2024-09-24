@@ -3,8 +3,10 @@
 I'm **Haris Ellahi**, a dedicated **AI Engineer** and **Machine Learning Engineer** with a **BS in Computer Science**. I have extensive experience in AI-driven projects, particularly in healthcare, education, and software development, including roles where I developed cutting-edge solutions using **Artificial Intelligence**.
 
 ## 🌟 About Me:
-- 🛠 I have previously worked on:
+- 🛠 I’m currently working on:
   - An integrated **digital research assistant** aimed at accelerating drug design and discovery using **OpenAI o1** for R&D in major diseases such as cancer.
+  
+- I have previously worked on:
   - An **agentic workflow for SDLC automation**, using tools like Crew.ai, AutoGen, and AgentOps to streamline software development tasks such as requirements gathering, design, coding, and testing.
 
 - 🌱 I’m currently learning and refining my skills in:
@@ -26,7 +28,7 @@ I'm **Haris Ellahi**, a dedicated **AI Engineer** and **Machine Learning Enginee
   - Part of a team that developed a project focused on **AI goal generation for industry-relevant exam data** analysis using the Codestral AI model.
 
 - **OpenAI o1 for Drug Design**:
-  - Contributed to the development of a digital assistant designed to **accelerate drug discovery**, improving accuracy and reducing costs for R&D in areas such as cancer treatment.
+  - Currently working on developing a digital assistant designed to **accelerate drug discovery**, improving accuracy and reducing costs for R&D in areas such as cancer treatment.
 
 - **Retrieval-Augmented Generation for Religious Texts** (AI Summer Internship):
   - Worked on **Quran and Hadith text retrieval** using RAG and Google Search API during an internship focused on advanced retrieval techniques.
