@@ -24,9 +24,6 @@ I'm **Haris Ellahi**, a dedicated **AI Engineer** and **Machine Learning Enginee
 - **[CodeBlast Dream Catcher](https://lablab.ai/event/codestral-ai-hackathon/codeblast/codeblast-dream-catcher)** (Codestral Hackathon – 3rd Place Winner):
   - Part of a team that developed a project focused on **AI goal generation for industry-relevant exam data** analysis using the Codestral AI model.
 
-- **[OpenAI o1 for Drug Design](https://drive.google.com/file/d/1HKC7eN5eQlXt8yMPPXHYUgLaRR0qpakv/view?usp=sharing)**:
-  - Currently working on developing a digital assistant designed to **accelerate drug discovery**, improving accuracy and reducing costs for R&D in areas such as cancer treatment.
-
 - **Retrieval-Augmented Generation for Religious Texts** (AI Summer Internship):
   - Worked on **Quran and Hadith text retrieval** using RAG and Google Search API during an internship focused on advanced retrieval techniques.
 
