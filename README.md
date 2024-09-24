@@ -15,16 +15,16 @@ I'm **Haris Ellahi**, a dedicated **AI Engineer** and **Machine Learning Enginee
   - **Automation projects** focusing on AI solutions.
 
 ## 💼 Key Projects:
-- **HealthHive Chatbot** (AI Internship at Ilm o Irfan Technologies):
+- **[HealthHive Chatbot](https://huggingface.co/spaces/harris1/HealthHiveChatbot)** (AI Internship at Ilm o Irfan Technologies):
   - Developed a chatbot integrating **Retrieval-Augmented Generation (RAG)** to provide comprehensive medical assistance based on real-time data from sources like PubMed and Google Search.
   
-- **Wellness Nexus Diagnostic System** (LabLab AI Hackathon):
+- **[Wellness Nexus Diagnostic System](https://lablab.ai/event/lablab-next-create-your-startup/wellness-nexus/nexus-integrated-diagnostic-system)** (LabLab AI Hackathon):
   - Led a team that created a diagnostic system integrating AI to assist in health diagnostics during the **Nexus Integrated Diagnostic System hackathon**.
 
-- **CodeBlast Dream Catcher** (Codestral Hackathon – 3rd Place Winner):
+- **[CodeBlast Dream Catcher](https://lablab.ai/event/codestral-ai-hackathon/codeblast/codeblast-dream-catcher)** (Codestral Hackathon – 3rd Place Winner):
   - Part of a team that developed a project focused on **AI goal generation for industry-relevant exam data** analysis using the Codestral AI model.
 
-- **OpenAI o1 for Drug Design**:
+- **[OpenAI o1 for Drug Design](https://drive.google.com/file/d/1HKC7eN5eQlXt8yMPPXHYUgLaRR0qpakv/view?usp=sharing)**:
   - Currently working on developing a digital assistant designed to **accelerate drug discovery**, improving accuracy and reducing costs for R&D in areas such as cancer treatment.
 
 - **Retrieval-Augmented Generation for Religious Texts** (AI Summer Internship):
