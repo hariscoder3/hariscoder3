@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm **Haris Ellahi**, a dedicated **AI Engineer** and **Machine Learning Engineer** with a **BS in Computer Science**. I have extensive experience in AI-driven projects, particularly in healthcare, education, and software development, including roles where I developed cutting-edge solutions using **Artificial Intelligence**.
+I'm **Haris Ellahi**, a dedicated **AI Full Stack Engineer** and **Machine Learning Engineer** with a **BS in Computer Science**. I have extensive experience in AI-driven projects, particularly in healthcare, education, and software development, including roles where I developed cutting-edge solutions using **Artificial Intelligence**.
 
 ## 🌟 About Me:
 - 🛠 I’m currently working on:
