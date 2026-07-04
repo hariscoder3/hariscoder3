@@ -102,14 +102,6 @@ I build **AI products that work in production, not just in demos.** Over 3+ year
 
 ---
 
-## 📊 GitHub Stats
-
-![Haris's GitHub stats](https://github-readme-stats.vercel.app/api?username=hariscoder3&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hariscoder3&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## 📫 Reach Me
 
 [![Email](https://img.shields.io/badge/Email-harisellahi55@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:harisellahi55@gmail.com)
