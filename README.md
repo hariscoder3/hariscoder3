@@ -1,8 +1,8 @@
 # Hi there, I'm Haris Ellahi 👋
 
-### AI Full Stack Engineer | Voice AI & LLM Product Developer
+### Full Stack Engineer | Java & Python Backend Systems | AI & Voice AI Product Developer
 
-I build **AI products that work in production, not just in demos.** Over 3+ years I've designed and shipped Generative AI applications end to end — real-time voice AI agents, RAG pipelines, multi-agent workflows, and custom MCP servers connecting LLMs to real tools and data.
+I build **backend systems and AI products that work in production, not just in demos.** Over 3+ years I've designed and shipped REST APIs, microservices, and Generative AI applications end to end — backend services in Java and Python, real-time voice AI agents, RAG pipelines, multi-agent workflows, and custom MCP servers connecting LLMs to real tools and data.
 
 📍 Lahore, Pakistan &nbsp;|&nbsp; 🎓 BS Computer Science (CGPA 3.80/4.00) &nbsp;|&nbsp; 🏆 3x International Hackathon Winner
 
@@ -11,10 +11,11 @@ I build **AI products that work in production, not just in demos.** Over 3+ year
 ## 🚀 About Me
 
 - 🔭 **Currently:** Freelance Software Engineer building backend REST APIs (FastAPI) and browser-automation / web-scraping pipelines (Puppeteer, Playwright, Selenium) for multiple clients.
-- 🎙️ **Recently at SellAgent AI (US):** Built core features of a 24/7 AI sales agent platform — real-time inbound/outbound voice agents (LiveKit), stateful multi-agent workflows (LangGraph), MCP-based chatbots, and React dashboards, all deployed on AWS.
-- 🌱 **Learning & sharpening:** Advanced agentic systems, model fine-tuning, and LLM ops.
-- 👯 **Open to collaborate on:** Voice AI, LLM-powered products, RAG systems, and AI automation.
-- 💬 **Ask me about:** Generative AI in production, voice agents, RAG pipelines, and MCP servers.
+- 🎙️ **Recently at SellAgent AI (US):** Built core features of a 24/7 AI sales agent platform — backend APIs and microservices, real-time inbound/outbound voice agents (LiveKit), stateful multi-agent workflows (LangGraph), MCP-based chatbots, and React dashboards, all deployed on AWS with Docker.
+- 🧱 **Backend focus:** REST API and microservices design with an eye on reliability, scalability, and maintainability — plus third-party and AI-agent integrations across every product I've shipped.
+- 🌱 **Learning & sharpening:** Java backend development, infrastructure-as-code (Terraform, Ansible), observability tooling, advanced agentic systems, and LLM ops.
+- 👯 **Open to collaborate on:** Backend systems, voice AI, LLM-powered products, RAG systems, and AI automation.
+- 💬 **Ask me about:** Backend API design, Generative AI in production, voice agents, RAG pipelines, and MCP servers.
 
 ---
 
@@ -22,12 +23,23 @@ I build **AI products that work in production, not just in demos.** Over 3+ year
 
 **Languages**
 
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+
+**Backend, APIs & Systems**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=flat)
+![Microservices](https://img.shields.io/badge/Microservices-1F6FEB?style=flat)
 
 **AI & LLM Engineering**
 
@@ -48,21 +60,18 @@ I build **AI products that work in production, not just in demos.** Over 3+ year
 ![Whisper](https://img.shields.io/badge/Whisper-412991?style=flat&logo=openai&logoColor=white)
 ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=flat)
 
-**Backend & Frontend**
+**Frontend**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
-**Cloud, DevOps & Data**
+**Cloud, Infrastructure & Data**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
